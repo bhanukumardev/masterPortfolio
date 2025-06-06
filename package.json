@@ -1,10 +1,10 @@
 {
   "private": true,
   "name": "masterPortfolio",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A portfolio website to showcase my projects and skills.",
   "author": "Bhanukumar Dev",
-  "homepage": ".",
+  "homepage": "https://bhanukumardev.github.io/masterPortfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
